@@ -1,6 +1,6 @@
 # Análisis Económico de Chapinero, Bogotá con R
 
-Este repositorio contiene el trabajo de análisis de datos para la localidad de Chapinero en Bogotá. Utilizamos modelos de regresión lineal múltiple (RLM) y aplicamos varias pruebas estadísticas para asegurar la validez de los modelos.
+Este repositorio contiene el trabajo de análisis de datos para la localidad de Chapinero en Bogotá. Utilizamos modelos de minimos cuadrados ordinarios y aplicamos varias pruebas estadísticas para asegurar la validez de los modelos.
 
 ## Archivos en el Repositorio
 
@@ -17,7 +17,7 @@ Este repositorio contiene el trabajo de análisis de datos para la localidad de 
 El análisis se realiza en varias etapas:
 
 1. **Preparación de Datos**: Los datos son limpiados y transformados para su uso en el modelo.
-2. **Modelado**: Se aplica regresión lineal múltiple (RLM) para entender las relaciones entre las variables.
+2. **Modelado**: Se aplica MCO para entender las relaciones entre las variables.
 3. **Validación del Modelo**:
    - **Normalidad**: Pruebas de Shapiro-Wilk para evaluar la distribución de los residuos.
    - **Homocedasticidad**: Prueba de Breusch-Pagan para verificar la varianza constante de los residuos.
