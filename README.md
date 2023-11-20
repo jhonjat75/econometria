@@ -39,7 +39,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo `LICENSE.md` para más
 
 ## Contacto
 
-Si tienes alguna pregunta, puedes contactarme en [tu_email@example.com].
+Si tienes alguna pregunta, puedes contactarme en [jhon-torres2@upc.com].
 
 ---
 
